@@ -3,5 +3,6 @@
 - MIPS reference data: https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf
 - El codigo se desarrolla sobre el simulador MARS MIPS.
 
-# Colaboradora
+# Colaboradores
+- Jose Andrey Sequeira Ruiz
 - Genesis Sofia Mendez Castro
