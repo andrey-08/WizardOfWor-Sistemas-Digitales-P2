@@ -1,2 +1,6 @@
 # WizardOfWor-Sistemas-Digitales-P2
-Este proyecto consiste en recrear el juego Wizard Of Wor utilizando el lenguaje MIPS.
+- Este proyecto consiste en recrear el juego Wizard Of Wor utilizando el lenguaje MIPS y las diferentes instrucciones presentes en la hoja de MIPS.
+- MIPS reference data: https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf
+
+# Colaboradora
+- Genesis Sofia Mendez Castro
